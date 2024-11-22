@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @yuan-t-create
+- 👋 Hi, I’m @yuan
 - 👀 I’m interested in cooking
-- 🌱 I’m currently learning CS50’s Introduction to Programming with Python
+- 🌱 I’m currently learning Programming
 - 💞️ I’m lying flat
 - 📫 How to reach me not defined
 - 😄 Pronouns: riceball
